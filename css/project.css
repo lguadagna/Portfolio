@@ -1,7 +1,6 @@
 body {
  color: #2d3c49;
  font-weight: 300;
-
 }
 
 hr {
@@ -10,7 +9,6 @@ hr {
 
 .text-muted {
     color: #7d97ad;
-    
 }
 
 .big-thin {
@@ -18,16 +16,21 @@ hr {
 }
 
 .logo-space {
-    margin-top: 20px; 
-    
+    margin-top: 20px;    
 }
 
 .blue-back {
     background: #7d97ad;
-    
 }
 
 .top-margin {
-    margin-top: 20px; 
-    
+    margin-top: 20px;   
+}
+
+.projects_section {
+    margin: default
+}
+
+.project_header {
+    margin: default
 }

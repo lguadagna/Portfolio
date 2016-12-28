@@ -1,0 +1,11 @@
+Rev5 Udacity Suggestions/Requirements for Completion:
+1. minify the bootstrap.
+2. add min css to project on github
+3. removed one space on line 19 in html div class
+4. line 49 html 'section' needs a class, not because the code requires it but because
+the instructors require it. section is new for html5 and is not supported in ie8
+5. moved <p> to inside footer tag, rather than outside it as suggested by reviewer. Even though this
+tag is just to prove that I can use the <p> and serves no functional purpose
+6. put the css logo inside the grid layout
+7. added "-->" to the end of the comment
+8. use blank lines outside style rules not inside 
